@@ -1,0 +1,130 @@
+{
+    "contacts": [
+        {
+            "birth_date": "4234234",
+            "first_name": "Adison",
+            "last_name": "Thrill",
+            "phone_number": "4242342"
+        },
+        {
+            "birth_date": "1123132",
+            "first_name": "Advil",
+            "last_name": "Terson",
+            "phone_number": "312313123"
+        },
+        {
+            "birth_date": "09/12/1995",
+            "first_name": "Alice",
+            "last_name": "Johnson",
+            "phone_number": "777-777-7777"
+        },
+        {
+            "birth_date": "23/04/2004",
+            "first_name": "Andy",
+            "last_name": "Ray",
+            "phone_number": "8324782"
+        },
+        {
+            "birth_date": "09/09/1982",
+            "first_name": "Catherine",
+            "last_name": "Harris",
+            "phone_number": "888-999-3456"
+        },
+        {
+            "birth_date": "10/10/1983",
+            "first_name": "David",
+            "last_name": "Anderson",
+            "phone_number": "222-222-2222"
+        },
+        {
+            "birth_date": "12/20/1992",
+            "first_name": "Emily",
+            "last_name": "Davis",
+            "phone_number": "999-999-9999"
+        },
+        {
+            "birth_date": "05/15/1985",
+            "first_name": "Jane",
+            "last_name": "Smith",
+            "phone_number": "888-888-8888"
+        },
+        {
+            "birth_date": "01/01/2000",
+            "first_name": "Joe",
+            "last_name": "Biden",
+            "phone_number": "123-456-7890"
+        },
+        {
+            "birth_date": "03/03/1990",
+            "first_name": "John",
+            "last_name": "Doe",
+            "phone_number": "555-555-5555"
+        },
+        {
+            "birth_date": "02/14/1998",
+            "first_name": "Karen",
+            "last_name": "Taylor",
+            "phone_number": "333-333-3333"
+        },
+        {
+            "birth_date": "11/11/1990",
+            "first_name": "Laura",
+            "last_name": "Johnson",
+            "phone_number": "777-999-5678"
+        },
+        {
+            "birth_date": "08/08/1975",
+            "first_name": "Mark",
+            "last_name": "Wilson",
+            "phone_number": "666-999-1234"
+        },
+        {
+            "birth_date": "06/06/1989",
+            "first_name": "Matthew",
+            "last_name": "Lee",
+            "phone_number": "555-999-9876"
+        },
+        {
+            "birth_date": "06/25/1978",
+            "first_name": "Michael",
+            "last_name": "Brown",
+            "phone_number": "111-111-1111"
+        },
+        {
+            "birth_date": "324234",
+            "first_name": "Qul",
+            "last_name": "qul",
+            "phone_number": "42423423424"
+        },
+        {
+            "birth_date": "01/01/1970",
+            "first_name": "Richard",
+            "last_name": "Clark",
+            "phone_number": "123-999-6543"
+        },
+        {
+            "birth_date": "07/07/1980",
+            "first_name": "Robert",
+            "last_name": "Williams",
+            "phone_number": "666-666-6666"
+        },
+        {
+            "birth_date": "04/04/1987",
+            "first_name": "Sara",
+            "last_name": "Jones",
+            "phone_number": "444-444-4444"
+        },
+        {
+            "birth_date": "324234",
+            "first_name": "Сергей",
+            "last_name": "Пивоваров",
+            "phone_number": "234234234"
+        },
+        {
+            "birth_date": "4444444",
+            "first_name": "Сергей",
+            "last_name": "Букаев",
+            "phone_number": "444444444444"
+        }
+    ]
+}
